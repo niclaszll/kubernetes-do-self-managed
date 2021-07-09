@@ -1,6 +1,6 @@
 # Self-managed Kubernetes Cluster on DigitalOcean
 
-Self-managed multi node Kubernetes cluster setup with [kube-prometheus-stack](https://github.com/prometheus-operator/kube-prometheus) for cloud deployment on DigitalOcean.
+Self-managed multi node Kubernetes cluster setup with [kube-prometheus-stack](https://github.com/prometheus-operator/kube-prometheus), deployed on DigitalOcean (not DOKS).
 
 ## Installation
 
